@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e761dcb80ea08447bab7b5134420811, type: 3}
+  m_Name: Stalwart
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: bd4fd68c1194d5a488d53623f41e24b0, type: 3}
+  Commands: 010000000200000001000000000000000000000002000000
+  Category: 0
